@@ -1,0 +1,45 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    color: green;
+}
+.item{
+    color: black;
+    background-color: white;
+    width: 70%;
+    border: 1px solid white;
+    margin-top: 1%;
+}
+h2{
+    color: brown;
+}
+.item h2{
+    color:yellow;
+}
+.table-unam{
+    color: black;
+    background-color: white;
+}
+.table-unam thead th{
+    color: black;
+    text-align: left;
+}
+.table-unam tbody td{
+    font-size: 15px;
+    text-align: justify;
+}
+.item-bg-info{
+    background-color: white;
+    
+}
+
+.font-size-3{
+    font-size: 60px;
+    color: black;
+}
+
+.contenedor{
+    width:1000px;
+    margin:auto;
+}
