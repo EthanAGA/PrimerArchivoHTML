@@ -1,0 +1,25 @@
+.table{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+.text-center{
+    text-align: center;
+}
+.bg-text{
+    background-color: pink;
+}
+.space{
+    display: inline;
+    
+}
+.bg-table2{
+    background-color:darkgoldenrod;
+    
+}
+.ds-table2{
+    display:inline;
+}
+.bg-text2{
+    background-color: goldenrod;
+}
