@@ -1,0 +1,19 @@
+.image{
+    width: 600px;
+    height: 700px;
+    margin-top: 5%;
+}
+.body{
+  background:radial-gradient( #c46935, #D8BFD8);
+}
+.border-button{
+    text-align: center;
+    background-color: greenyellow;
+    border-radius: 30px 50px;
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+.center-buttom{
+    text-align: center;
+}
